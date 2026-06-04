@@ -1,0 +1,6 @@
+{
+  "name": "optimus",
+  "description": "Pack de ejemplo: empaqueta el agente code-reviewer, el comando /commit y el hook de formato para instalarlos/compartirlos de una.",
+  "version": "0.1.0",
+  "author": "claude-code-starter"
+}

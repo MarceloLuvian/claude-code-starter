@@ -1,0 +1,22 @@
+# Dependencias / entornos
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Secretos
+.env
+.env.*
+
+# Builds / caches
+dist/
+build/
+.cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local de Claude Code (NO compartir tu config personal de máquina)
+.claude/settings.local.json
